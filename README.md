@@ -1,5 +1,6 @@
-# Jason Rouet - @jaz-on
-Bonjour and welcome! I am a full remote WordPress hobbyist working at [Whodunit](https://www.whodunit.fr/) webagency, advising large companies on their website maintenance strategies.
+# Bonjour and welcome! 👋👋
+
+I'm Jason (@jaz-on) and I am a full remote WordPress hobbyist working at [Whodunit](https://www.whodunit.fr/) webagency, advising large companies on their website maintenance strategies.
 I currently live in the West of France in the charming town of Cognac! 🥃🇫🇷
 
 I'm also a [WordPress contributor](https://profiles.wordpress.org/jaz_on/), [meetup La Rochelle organiser](https://www.meetup.com/fr-FR/wordpress-la-rochelle/), Wordpress.tv moderator, ...
