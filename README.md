@@ -9,6 +9,7 @@ Recently, I became the [BuddyPress project](https://github.com/buddypress) Docum
 
 I am an avid SF reader, RP gamer as well. Interested in building fictional universes. Strongly pro-European. 🇪🇺 And of course, I’m also a fan of craftbeers 🍻 and coffee beans ☕️ addict!
 
+My opensource contribution motto is the following:
 > Be part of the change you seek! 🤝
 
 ## 📬 Let's get in touch
