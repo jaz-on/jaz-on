@@ -11,5 +11,5 @@ My opensource contribution motto is the following:
 > Be part of the change you seek! 🤝
 
 ## 📬 Let's get in touch
-- I'm mainly active on LinkedIn these days (thanks Elon for burning down Twitter...): [https://www.linkedin.com/in/jasonrouet/](https://www.linkedin.com/in/jasonrouet/)
+- I'm mainly active on <a rel="me" href="https://pouet.chapril.org/@jrouet">Mastodon</a> and [LinkedIn](https://www.linkedin.com/in/jasonrouet/) these days (thanks Elon for burning down Twitter...).
 - On the ["Making WordPress" Slack](https://make.wordpress.org/chat/), I'm @Jason Rouet.
