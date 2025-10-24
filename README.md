@@ -1,15 +1,34 @@
-# Bonjour and welcome! 👋👋
+# Bonjour and welcome! 👋
 
-I'm Jason (@jaz-on) and I am a full remote WordPress hobbyist working at [Whodunit](https://www.whodunit.fr/) webagency, advising large companies on their website maintenance strategies. I live in the West of France in the charming town of Cognac! 🥃🇫🇷
+I'm Jason (@jaz-on), a full remote WordPress enthusiast working curently at [Whodunit](https://www.whodunit.fr/) webagency, advising large companies on their website maintenance strategies. I live in the West of France in the charming town of Cognac! 🥃🇫🇷
 
-I'm also a [WordPress contributor](https://profiles.wordpress.org/jaz_on/), [meetup La Rochelle organiser](https://www.meetup.com/fr-FR/wordpress-la-rochelle/), [Wordpress.tv](https://wordpress.tv) moderator, [WordCamp Europe](https://europe.wordcamp.org/) organiser, ...
-I'm maintaining the following plugin as a hobby: [Weather Station](https://wordpress.org/plugins/live-weather-station/) and I'm also blogging on [my site Jasonrouet.com](https://jasonrouet.com/).
+## WordPress Contributions
 
-I am an avid SF reader, RP gamer as well. Interested in building fictional universes. Strongly pro-European. 🇪🇺 And of course, I’m also a fan of craftbeers 🍻 and coffee beans ☕️ addict!
+**Current roles:**
+- **President** of [French WordPress Association (WPFR)](https://wpfr.net) 
+- **Former lead organizer** of [WordCamp Europe](https://europe.wordcamp.org/)
+- **WordPress core/community contributor** ([profile](https://profiles.wordpress.org/jaz_on/))
+- **Meetup organizer** for [WordPress La Rochelle](https://www.meetup.com/fr-FR/wordpress-la-rochelle/)
+- **Moderator** at [WordPress.tv](https://wordpress.tv)
 
-My opensource contribution motto is the following:
-> Be part of the change you seek! 🤝
+**Projects:**
+- Maintaining [Weather Station plugin](https://wordpress.org/plugins/live-weather-station/) as a hobby
+- Regular blogging on [jasonrouet.com](https://jasonrouet.com/)
 
-## 📬 Let's get in touch
-- I'm mainly active on <a rel="me" href="https://pouet.chapril.org/@jrouet">Mastodon</a> and [LinkedIn](https://www.linkedin.com/in/jasonrouet/) these days (thanks Elon for burning down Twitter...).
-- On the ["Making WordPress" Slack](https://make.wordpress.org/chat/), I'm @Jason Rouet.
+## About Me
+
+I'm an avid science fiction reader and role-playing gamer, interested in building fictional universes. Strongly pro-European 🇪🇺 and, of course, a fan of craft beers 🍻 and coffee beans ☕️
+
+### My Open Source Motto
+> Be part of the change you seek! 💛
+
+## Get in Touch
+
+- **Mastodon:** <a rel="me" href="https://pouet.chapril.org/@jrouet">@jrouet@pouet.chapril.org</a>
+- **LinkedIn:** [jasonrouet](https://www.linkedin.com/in/jasonrouet/)
+- **Making WordPress Slack:** @Jason Rouet
+- **Website:** [jasonrouet.com](https://jasonrouet.com)
+
+---
+
+*Thanks Elon for burning down Twitter... 🔥*
