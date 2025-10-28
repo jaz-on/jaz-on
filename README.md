@@ -19,9 +19,6 @@ I'm Jason (@jaz-on), a full remote WordPress enthusiast working curently at [Who
 
 I'm an avid science fiction reader and role-playing gamer, interested in building fictional universes. Strongly pro-European 🇪🇺 and, of course, a fan of craft beers 🍻 and coffee beans ☕️
 
-### My Open Source Motto
-> Be part of the change you seek! 💛
-
 ## Get in Touch
 
 - **Mastodon:** <a rel="me" href="https://pouet.chapril.org/@jrouet">@jrouet@pouet.chapril.org</a>
@@ -31,4 +28,4 @@ I'm an avid science fiction reader and role-playing gamer, interested in buildin
 
 ---
 
-*Thanks Elon for burning down Twitter... 🔥*
+> *Be part of the change you seek!* 💛
