@@ -1,6 +1,6 @@
 # Bonjour and welcome! 👋
 
-I'm Jason (@jaz-on), a full remote WordPress enthusiast working curently at [Whodunit](https://www.whodunit.fr/) webagency, advising large companies on their website maintenance strategies. I live in the West of France in the charming town of Cognac! 🥃🇫🇷
+I'm Jason (@jaz-on), a full remote WordPress enthusiast working curently on [mediapapa](https://www.wp-mediapapa.com/) as Product Manager, advising clients on their media library management strategies. I live in the West of France in the charming town of Cognac! 🥃🇫🇷
 
 ## WordPress Contributions
 
