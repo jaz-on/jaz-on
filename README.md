@@ -1,5 +1,7 @@
 # Jason Rouet
 
+![jasonrouet.com, Jasonnade et Antisilo](assets/trois-sites.png)
+
 GitHub, c’est mon terrain de jeu pour bidouiller sur mon temps libre : quelques projets perso et mes contributions à des projets open source et WordPress.
 
 ## Mes deux activités
